@@ -1,1 +1,1 @@
-# map_project
+# Map Project GUI created using TypeScript, React
