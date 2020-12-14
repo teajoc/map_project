@@ -1,0 +1,17 @@
+body {
+    background-color: #131414;
+    font-family: monospace;
+    padding: 1rem;
+}
+
+p {
+    color: white;
+}
+
+button {
+    margin: .7rem .7rem .7rem 0rem;
+}
+
+#dropdown {
+    width: 33%;
+}
